@@ -1,0 +1,2020 @@
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+student is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+student is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+student is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+student is the Winner!
+student is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+student is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+student is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+student is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+agent1 is the Winner!
+student is the Winner!
+17:55:17.100363 : agent1 is the Winner!
+17:55:19.432841 : agent1 is the Winner!
+17:55:23.958990 : agent1 is the Winner!
+17:55:29.172890 : student is the Winner!
+17:55:30.343078 : agent1 is the Winner!
+17:55:31.376627 : agent1 is the Winner!
+17:55:38.934881 : agent1 is the Winner!
+17:55:40.534171 : agent1 is the Winner!
+17:55:43.831092 : agent1 is the Winner!
+17:55:46.994492 : agent1 is the Winner!
+17:55:49.169192 : agent1 is the Winner!
+17:55:53.198849 : agent1 is the Winner!
+17:55:57.169275 : agent1 is the Winner!
+17:56:06.864913 : agent1 is the Winner!
+17:56:07.221652 : agent1 is the Winner!
+17:56:14.639222 : agent1 is the Winner!
+17:56:15.307990 : agent1 is the Winner!
+17:56:25.808982 : student is the Winner!
+17:56:27.608552 : agent1 is the Winner!
+17:56:28.813357 : agent1 is the Winner!
+17:56:37.149406 : agent1 is the Winner!
+17:56:44.781512 : agent1 is the Winner!
+17:56:57.825845 : agent1 is the Winner!
+17:57:11.040465 : agent1 is the Winner!
+17:57:14.370340 : agent1 is the Winner!
+17:57:16.034039 : agent1 is the Winner!
+18:03:57.353363 : agent1 is the Winner!
+18:05:38.549047 : agent1 is the Winner!
+18:05:43.540721 : agent1 is the Winner!
+18:05:48.780780 : agent1 is the Winner!
+18:05:58.406908 : agent1 is the Winner!
+18:06:40.521592 : agent1 is the Winner!
+18:06:42.679078 : agent1 is the Winner!
+18:06:46.102830 : student is the Winner!
+18:06:47.620966 : agent1 is the Winner!
+18:06:50.113460 : agent1 is the Winner!
+18:07:07.171646 : agent1 is the Winner!
+18:07:08.426527 : student is the Winner!
+18:10:19.497750 : agent1 is the Winner!
+18:10:26.449974 : agent1 is the Winner!
+18:10:31.036477 : agent1 is the Winner!
+18:10:52.492416 : student is the Winner!
+18:10:54.987027 : student is the Winner!
+18:11:06.912895 : agent1 is the Winner!
+18:11:16.321593 : agent1 is the Winner!
+18:11:17.695549 : agent1 is the Winner!
+18:11:24.052185 : agent1 is the Winner!
+18:11:32.564329 : agent1 is the Winner!
+18:11:47.114261 : agent1 is the Winner!
+18:11:48.209784 : agent1 is the Winner!
+18:11:52.146856 : student is the Winner!
+18:12:01.095257 : agent1 is the Winner!
+18:12:49.011963 : agent1 is the Winner!
+18:12:52.357804 : agent1 is the Winner!
+18:12:56.768319 : agent1 is the Winner!
+18:13:12.721444 : agent1 is the Winner!
+18:13:21.708365 : agent1 is the Winner!
+18:13:26.641786 : agent1 is the Winner!
+18:13:27.311974 : agent1 is the Winner!
+18:13:40.361078 : agent1 is the Winner!
+18:13:46.017490 : agent1 is the Winner!
+18:13:50.015227 : agent1 is the Winner!
+18:13:50.768672 : agent1 is the Winner!
+18:13:58.844065 : student is the Winner!
+18:14:08.660453 : agent1 is the Winner!
+18:14:18.752897 : agent1 is the Winner!
+18:14:22.519753 : agent1 is the Winner!
+18:14:33.358316 : agent1 is the Winner!
+18:14:33.870245 : agent1 is the Winner!
+18:14:38.337582 : agent1 is the Winner!
+18:14:56.647868 : agent1 is the Winner!
+18:15:04.090664 : agent1 is the Winner!
+18:15:08.465449 : agent1 is the Winner!
+18:15:17.835149 : agent1 is the Winner!
+18:15:18.912514 : agent1 is the Winner!
+18:15:33.560312 : agent1 is the Winner!
+18:19:06.689036 : agent1 is the Winner!
+18:19:08.224049 : agent1 is the Winner!
+18:19:09.461209 : agent1 is the Winner!
+18:19:09.974171 : agent1 is the Winner!
+18:19:12.622704 : agent1 is the Winner!
+18:19:14.231684 : agent1 is the Winner!
+18:19:18.645419 : agent1 is the Winner!
+18:19:23.690871 : agent1 is the Winner!
+18:19:29.468427 : agent1 is the Winner!
+18:19:31.037303 : agent1 is the Winner!
+18:19:35.869567 : agent1 is the Winner!
+18:19:39.905348 : agent1 is the Winner!
+18:19:43.378391 : agent1 is the Winner!
+18:19:43.998272 : agent1 is the Winner!
+18:19:45.842023 : agent1 is the Winner!
+18:26:41.515643 : agent1 is the Winner!
+18:26:42.642474 : agent1 is the Winner!
+18:26:53.182263 : agent1 is the Winner!
+18:26:54.316873 : agent1 is the Winner!
+18:26:55.151573 : agent1 is the Winner!
+18:27:00.655885 : agent1 is the Winner!
+18:28:43.376252 : student is the Winner!
+18:28:51.951716 : agent1 is the Winner!
+18:28:58.166062 : agent1 is the Winner!
+18:31:22.894228 : agent1 is the Winner!
+18:31:37.795851 : agent1 is the Winner!
+18:34:16.798169 : agent1 is the Winner!
+18:35:40.008154 : agent1 is the Winner!
+18:36:00.323087 : student is the Winner!
+18:36:11.745449 : agent1 is the Winner!
+19:02:23.225616 : agent1 is the Winner!
+19:13:36.737684 : agent1 is the Winner!
+19:20:37.967719 : agent1 is the Winner!
+19:57:39.970548 : agent1 is the Winner!
+20:11:24.986884 : agent1 is the Winner!
+20:13:06.840557 : agent1 is the Winner!
+20:15:03.403294 : agent1 is the Winner!
+20:17:18.677587 : agent1 is the Winner!
+20:17:25.294894 : agent1 is the Winner!
+20:21:13.362998 : agent1 is the Winner!
+20:21:23.556417 : agent1 is the Winner!
+21:05:22.939029 : agent1 is the Winner!
+21:07:21.676245 : agent1 is the Winner!
+21:08:55.640088 : agent1 is the Winner!
+21:09:01.046424 : student is the Winner!
+21:09:03.766053 : agent1 is the Winner!
+21:19:15.539891 : agent1 is the Winner!
+21:28:41.852043 : agent1 is the Winner!
+21:28:55.337881 : agent1 is the Winner!
+21:29:30.373197 : agent1 is the Winner!
+21:29:41.667537 : agent1 is the Winner!
+21:29:46.392911 : agent1 is the Winner!
+21:29:50.713854 : agent1 is the Winner!
+21:29:55.669057 : agent1 is the Winner!
+21:30:20.361664 : agent1 is the Winner!
+21:31:09.796113 : agent1 is the Winner!
+21:32:54.499679 : agent1 is the Winner!
+21:36:32.601678 : agent1 is the Winner!
+21:36:44.672936 : agent1 is the Winner!
+21:36:58.882174 : agent1 is the Winner!
+21:37:53.740733 : student is the Winner!
+21:37:57.842776 : agent1 is the Winner!
+21:38:04.378019 : agent1 is the Winner!
+21:38:14.156546 : agent1 is the Winner!
+21:38:20.158991 : agent1 is the Winner!
+21:40:17.429792 : agent1 is the Winner!
+21:44:09.774049 : agent1 is the Winner!
+21:44:15.130174 : agent1 is the Winner!
+21:44:25.899168 : agent1 is the Winner!
+21:47:58.248916 : agent1 is the Winner!
+01:14:42.721374 : agent1 is the Winner!
+01:15:27.615617 : agent1 is the Winner!
+01:23:59.858739 : agent1 is the Winner!
+01:28:45.973190 : agent1 is the Winner!
+01:32:55.254642 : agent1 is the Winner!
+01:34:21.555720 : student is the Winner!
+01:35:14.917877 : student is the Winner!
+01:36:43.376849 : student is the Winner!
+01:37:07.148477 : student is the Winner!
+01:37:43.333087 : student is the Winner!
+01:38:17.640070 : student is the Winner!
+01:39:08.925217 : student is the Winner!
+		<<<<< NEW TEST >>>>>>
+01:45:36.008402 : student is the Winner!
+01:46:29.151528 : student is the Winner!
+01:46:38.387872 : student is the Winner!
+01:47:58.035742 : student is the Winner!
+01:49:07.118797 : student is the Winner!
+01:49:45.821021 : student is the Winner!
+03:01:58.380772 : student is the Winner!
+03:02:36.926456 : student is the Winner!
+03:02:40.889344 : student is the Winner!
+03:03:00.390062 : student is the Winner!
+03:03:15.093401 : student is the Winner!
+03:03:42.813013 : student is the Winner!
+03:16:28.217142 : student is the Winner!
+03:16:41.839361 : student is the Winner!
+03:16:47.720087 : student is the Winner!
+03:16:56.669414 : student is the Winner!
+03:17:47.298307 : student is the Winner!
+03:17:47.703365 : student is the Winner!
+03:18:39.877305 : student is the Winner!
+03:19:25.167236 : student is the Winner!
+03:21:29.422757 : student is the Winner!
+03:22:53.641957 : student is the Winner!
+03:23:11.300798 : student is the Winner!
+03:23:29.573917 : student is the Winner!
+03:23:59.706025 : student is the Winner!
+17:49:17.304375 : student is the Winner!
+17:49:20.687648 : student is the Winner!
+17:49:26.118643 : student is the Winner!
+17:49:29.573073 : student is the Winner!
+17:51:37.137765 : student is the Winner!
+17:52:14.724230 : student is the Winner!
+17:52:37.906714 : student is the Winner!
+17:52:55.049902 : student is the Winner!
+17:53:26.473890 : student is the Winner!
+17:53:45.754696 : student is the Winner!
+17:54:48.967675 : student is the Winner!
+17:55:29.373007 : student is the Winner!
+17:55:39.043930 : student is the Winner!
+17:55:55.573990 : student is the Winner!
+17:56:05.076969 : student is the Winner!
+17:57:00.695695 : student is the Winner!
+17:57:25.281629 : student is the Winner!
+18:09:05.793546 : student is the Winner!
+18:09:08.901382 : student is the Winner!
+18:09:35.795542 : student is the Winner!
+18:12:47.147405 : student is the Winner!
+18:12:55.206050 : student is the Winner!
+18:28:03.795679 : student is the Winner!
+18:28:25.052275 : student is the Winner!
+18:29:42.307952 : student is the Winner!
+23:14:19.792220 : student is the Winner!
+23:14:58.616457 : student is the Winner!
+23:16:37.432561 : student is the Winner!
+23:17:17.764005 : student is the Winner!
+23:17:21.230866 : student is the Winner!
+23:18:18.521533 : student is the Winner!
+23:22:43.375563 : student is the Winner!
+23:31:11.754907 : student is the Winner!
+23:36:16.930699 : student is the Winner!
+23:37:15.956661 : agent1 is the Winner!
+23:37:51.572420 : agent1 is the Winner!
+23:38:59.537637 : agent1 is the Winner!
+23:39:12.655721 : agent1 is the Winner!
+23:40:00.940369 : agent1 is the Winner!
+23:41:07.672722 : agent1 is the Winner!
+23:42:10.361597 : agent1 is the Winner!
+23:42:17.482601 : agent1 is the Winner!
+23:42:24.828104 : agent1 is the Winner!
+23:42:42.031510 : agent1 is the Winner!
+23:43:09.700682 : agent1 is the Winner!
+23:43:26.367275 : student is the Winner!
+23:43:36.783895 : agent1 is the Winner!
+23:44:21.290483 : agent1 is the Winner!
+23:44:34.435227 : agent1 is the Winner!
+23:45:13.078771 : student is the Winner!
+23:45:20.880198 : agent1 is the Winner!
+23:45:35.049722 : agent1 is the Winner!
+23:46:06.951218 : agent1 is the Winner!
+23:46:12.834190 : agent1 is the Winner!
+23:46:22.613560 : agent1 is the Winner!
+23:46:28.824482 : agent1 is the Winner!
+23:46:57.538047 : student is the Winner!
+23:48:43.831877 : agent1 is the Winner!
+23:48:52.174970 : student is the Winner!
+23:49:01.849738 : agent1 is the Winner!
+23:49:05.801128 : student is the Winner!
+23:49:46.406802 : agent1 is the Winner!
+23:49:49.543914 : agent1 is the Winner!
+23:49:56.161973 : agent1 is the Winner!
+23:50:01.526107 : agent1 is the Winner!
+23:58:30.550286 : agent1 is the Winner!
+23:58:48.545923 : agent1 is the Winner!
+23:59:04.924467 : student is the Winner!
+23:59:10.621011 : student is the Winner!
+23:59:34.285131 : agent1 is the Winner!
+00:03:29.711781 : agent1 is the Winner!
+00:03:37.485977 : agent1 is the Winner!
+00:04:13.778800 : agent1 is the Winner!
+00:04:44.571590 : agent1 is the Winner!
+00:05:06.927413 : agent1 is the Winner!
+00:05:15.891166 : agent1 is the Winner!
+00:07:05.468611 : agent1 is the Winner!
+00:13:33.654624 : agent1 is the Winner!
+00:14:48.873024 : agent1 is the Winner!
+00:15:06.632016 : agent1 is the Winner!
+00:17:07.701107 : agent1 is the Winner!
+00:17:12.572084 : agent1 is the Winner!
+00:17:27.956205 : agent1 is the Winner!
+00:17:31.935803 : agent1 is the Winner!
+00:17:35.466177 : agent1 is the Winner!
+00:26:04.451420 : agent1 is the Winner!
+00:26:57.632981 : student is the Winner!
+00:27:02.734662 : student is the Winner!
+00:27:07.615788 : agent1 is the Winner!
+00:28:28.406977 : student is the Winner!
+00:29:40.607956 : student is the Winner!
+00:30:49.681972 : student is the Winner!
+00:31:45.269782 : agent1 is the Winner!
+00:31:57.100749 : student is the Winner!
+00:33:20.416631 : agent1 is the Winner!
+00:54:28.253760 : agent1 is the Winner!
+00:54:40.672161 : agent1 is the Winner!
+01:04:08.855678 : student is the Winner!
+01:08:22.197796 : agent1 is the Winner!
+01:10:29.341498 : agent1 is the Winner!
+01:11:05.076121 : agent1 is the Winner!
+01:14:45.081733 : agent1 is the Winner!
+01:15:10.547155 : agent1 is the Winner!
+01:16:06.568702 : agent1 is the Winner!
+01:19:24.915767 : agent1 is the Winner!
+01:22:59.442102 : agent1 is the Winner!
+01:23:20.029722 : agent1 is the Winner!
+01:24:41.330017 : agent1 is the Winner!
+01:25:27.116408 : agent1 is the Winner!
+01:26:29.637215 : agent1 is the Winner!
+01:27:43.970893 : agent1 is the Winner!
+01:28:57.000085 : agent1 is the Winner!
+01:32:19.775197 : student is the Winner!
+01:32:25.088370 : agent1 is the Winner!
+01:34:50.985578 : agent1 is the Winner!
+01:36:19.209107 : agent1 is the Winner!
+01:37:10.924927 : agent1 is the Winner!
+01:37:56.262827 : agent1 is the Winner!
+01:38:04.388297 : agent1 is the Winner!
+01:39:58.783140 : agent1 is the Winner!
+01:42:50.184950 : agent1 is the Winner!
+01:43:12.607289 : agent1 is the Winner!
+01:43:43.503673 : agent1 is the Winner!
+01:44:20.384822 : agent1 is the Winner!
+01:46:25.335359 : agent1 is the Winner!
+01:58:51.988601 : agent1 is the Winner!
+01:58:57.181701 : agent1 is the Winner!
+01:59:02.482968 : agent1 is the Winner!
+01:59:14.030475 : agent1 is the Winner!
+02:00:36.520532 : agent1 is the Winner!
+02:01:57.381897 : agent1 is the Winner!
+02:02:47.015847 : agent1 is the Winner!
+02:03:09.743058 : agent1 is the Winner!
+02:04:01.124459 : agent1 is the Winner!
+02:05:00.475012 : student is the Winner!
+02:05:04.784084 : student is the Winner!
+02:05:31.828319 : student is the Winner!
+02:05:57.110838 : agent1 is the Winner!
+02:06:33.418123 : student is the Winner!
+02:06:36.375330 : agent1 is the Winner!
+02:08:44.175674 : student is the Winner!
+02:08:55.934169 : student is the Winner!
+02:08:58.352184 : student is the Winner!
+02:09:05.347197 : student is the Winner!
+02:09:08.178972 : student is the Winner!
+02:09:47.575319 : agent1 is the Winner!
+02:12:13.368244 : student is the Winner!
+02:12:15.917883 : student is the Winner!
+02:12:20.662869 : student is the Winner!
+02:12:24.033231 : student is the Winner!
+02:12:41.841507 : student is the Winner!
+02:12:43.797353 : student is the Winner!
+02:12:45.893173 : student is the Winner!
+02:12:50.099870 : agent1 is the Winner!
+02:13:50.561804 : agent1 is the Winner!
+02:14:18.794100 : student is the Winner!
+02:14:33.343381 : student is the Winner!
+02:14:36.452933 : student is the Winner!
+02:15:27.456420 : student is the Winner!
+02:16:05.377725 : student is the Winner!
+02:17:10.525511 : student is the Winner!
+02:17:24.093352 : student is the Winner!
+02:19:59.685669 : student is the Winner!
+02:34:13.075394 : agent1 is the Winner!
+02:34:16.059134 : agent1 is the Winner!
+02:35:24.806534 : student is the Winner!
+02:35:48.962968 : student is the Winner!
+02:36:56.033502 : student is the Winner!
+
+		<<<<< NEW TEST >>>>>>
+
+		
+02:42:12.201928 : student is the Winner!
+02:45:54.048922 : student is the Winner!
+02:45:55.404495 : student is the Winner!
+02:46:47.287609 : student is the Winner!
+02:47:17.562817 : student is the Winner!
+02:47:21.886180 : student is the Winner!
+02:47:39.869222 : student is the Winner!
+02:48:19.976185 : student is the Winner!
+02:48:55.511678 : student is the Winner!
+02:49:08.373502 : student is the Winner!
+02:49:12.919391 : student is the Winner!
+02:49:30.555859 : student is the Winner!
+02:50:10.202017 : student is the Winner!
+02:52:02.615675 : student is the Winner!
+02:54:33.748627 : student is the Winner!
+02:55:04.811796 : student is the Winner!
+02:55:25.792418 : student is the Winner!
+02:56:01.428107 : student is the Winner!
+02:56:52.194825 : student is the Winner!
+03:01:58.530011 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:03:30.586115 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:03:48.609027 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:04:04.702506 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:04:20.866867 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:04:36.964134 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:05:04.855840 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:05:07.786935 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:05:19.529865 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:05:20.202611 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:05:20.635583 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:05:36.279261 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:05:42.655333 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:05:57.416999 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:06:31.773838 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:06:44.689241 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:07:20.037094 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:08:03.563540 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:08:18.485108 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:08:19.480332 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:08:31.611024 : student is the Winner!
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:20:18.463354 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:20:23.886039 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:20:30.971513 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:21:26.053247 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:24:13.904985 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:33:42.077337 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:33:57.375509 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:34:08.421560 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:34:44.905241 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:34:52.751609 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:34:55.844937 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:35:14.974409 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:35:34.152730 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:35:42.727896 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:35:52.835133 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:35:56.750050 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:36:12.091957 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:36:17.435975 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:36:24.703515 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:36:26.982517 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:36:35.800323 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:36:38.383777 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:37:04.594636 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:37:24.703986 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:37:50.475453 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:37:50.904289 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:37:58.256241 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:38:13.075057 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:38:19.422113 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:38:40.722854 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:38:46.682564 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:39:05.244838 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:39:14.827228 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:39:16.893307 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:39:20.886368 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:39:22.922167 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:39:30.301745 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:39:34.270358 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:39:51.338814 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:40:10.829319 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:40:43.262930 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:40:44.610167 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:40:57.121832 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:41:04.715893 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+03:41:19.674148 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:42:07.177676 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:43:06.159150 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:43:06.847062 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:43:10.388482 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:43:22.667674 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:44:21.403954 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:45:08.162249 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:45:58.229030 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:46:16.915760 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:46:57.253969 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:47:00.897888 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:47:51.600207 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:48:44.010763 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:49:35.638337 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:49:40.194241 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:49:46.792333 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:49:53.935983 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:50:04.102233 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:51:06.774418 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:51:47.130826 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:54:44.826578 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:55:04.040143 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:55:09.954851 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:55:21.583589 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:55:52.294931 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:56:05.372587 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:56:20.825941 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:56:46.819796 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:56:55.990094 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:57:02.053579 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:57:03.157835 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:57:03.710326 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:57:33.804338 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:57:36.409656 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:57:56.136605 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:57:58.982783 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:58:07.972887 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:58:12.401655 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+05:58:19.195077 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:26:33.294476 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:27:20.483006 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:29:19.847017 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:29:25.469733 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:31:25.769131 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:31:26.030016 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:32:28.097416 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:33:28.386182 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:33:30.460121 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:34:03.082110 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:34:22.635215 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:34:31.831282 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:34:42.101825 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:34:51.296713 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:35:08.305935 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:04:17.607031 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:04:26.948262 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:04:42.149032 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:04:58.461347 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:05:29.014419 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:05:40.741451 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:05:59.663245 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:06:09.877736 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:06:11.430849 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:06:12.221225 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:06:48.270936 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:07:13.455002 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:07:27.242540 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:07:36.050448 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:07:38.519413 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:07:42.788992 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:07:51.309286 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:08:00.322061 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:08:10.151047 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:08:29.426940 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+17:28:48.493351 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:34:35.475088 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:34:41.171039 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:34:52.991875 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:35:18.009617 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:35:30.707380 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:35:31.864287 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:35:35.727396 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:35:53.245447 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:36:13.961689 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:36:22.400265 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:36:58.651170 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:37:29.137888 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:37:32.729242 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:38:01.724073 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:38:23.165442 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:38:35.908658 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:38:58.462790 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:39:08.628882 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:39:11.588541 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:39:12.460346 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:39:38.362342 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:39:41.276183 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:39:44.282111 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:39:45.381518 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:39:57.570913 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:40:11.258491 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:40:15.528647 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:40:27.724782 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:40:46.848328 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:41:23.092621 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:41:26.073307 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:41:26.666165 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:41:41.492165 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:42:00.698549 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:42:14.819851 : student is the Winner!
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+17:43:08.509095 : student is the Winner!
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+

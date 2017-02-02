@@ -1,0 +1,1523 @@
+
+
+20:40:05.545462 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:40:10.072007 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:40:23.882458 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:42:30.479288 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:42:56.429053 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+20:52:10.421105 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+20:55:17.697530 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+01:47:33.647480 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 5 fps >>>>>>
+
+		<<<<<< New Run at 10 fps >>>>>>
+
+		<<<<<< New Run at 10 fps >>>>>>
+
+		<<<<<< New Run at 10 fps >>>>>>
+
+		<<<<<< New Run at 10 fps >>>>>>
+
+		<<<<<< New Run at 10 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+03:41:30.011231 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+05:31:26.751895 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+05:34:43.016656 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+06:10:26.645798 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+06:26:19.357241 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:30:41.595627 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:33:58.987514 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:34:09.156609 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+06:39:12.761762 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+18:43:04.136361 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+18:45:36.805138 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+18:47:59.336855 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+18:48:14.430961 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+18:49:48.182204 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+19:02:34.349820 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+19:05:22.760761 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+19:05:39.367406 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+19:06:05.521691 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+19:06:42.018695 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:12:03.230246 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:16:52.751953 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:21:14.742520 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:22:57.213719 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:24:17.087203 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:25:09.232816 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:28:00.410193 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:28:05.219009 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:31:54.572564 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:37:17.163941 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:40:23.136858 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:42:02.802870 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:42:34.077958 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:46:29.579425 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:46:52.414300 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:47:57.635687 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:48:06.839205 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:49:43.243588 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:50:08.324446 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+19:51:19.050562 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:02:18.558138 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:03:50.171431 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:08:34.878922 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:08:58.864479 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:09:50.218659 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:10:47.493791 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:11:19.186796 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:11:20.269716 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:11:50.878725 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:12:09.869733 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:12:44.494088 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:13:10.406437 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:13:56.230457 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:15:36.238333 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:17:29.700928 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:19:36.840937 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:21:52.430132 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:25:53.802552 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:30:52.927436 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:32:09.299794 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:34:59.031215 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:36:46.399383 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:37:04.652039 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:46:57.544256 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:52:18.498576 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:52:37.562590 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:52:55.312401 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:53:53.104388 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:54:41.161321 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:55:33.837527 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:56:10.565622 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:56:33.661058 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:56:34.740529 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 30 fps >>>>>>
+
+20:56:50.269753 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 30 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+20:59:31.622143 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:00:24.706383 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:00:29.243912 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:07:55.488960 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:14:59.215554 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:17:42.979911 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:24:12.594461 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:24:39.503239 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:25:05.389810 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:25:46.379998 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:25:52.902155 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:28:10.576916 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:28:18.740189 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:28:49.717270 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:29:33.837598 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+		<<<<<< New Run at 40 fps >>>>>>
+
+21:31:09.088229 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:31:57.113270 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:33:27.351496 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:34:51.066542 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:35:27.480721 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:36:04.016815 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:36:47.605239 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:37:26.964013 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:38:46.919942 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:39:13.237273 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:40:46.719797 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:41:29.965991 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:44:34.130868 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:44:46.502458 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:44:51.562442 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:53:22.535356 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:53:28.215207 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:55:33.195320 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:55:42.119239 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:56:11.916058 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:56:34.909174 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:57:40.038332 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:57:50.929951 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+21:58:24.429175 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+17:54:25.029833 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+17:56:25.675960 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 10 fps >>>>>>
+
+		<<<<<< New Run at 50 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:56:35.569266 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:56:49.941528 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:57:24.497267 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:58:09.384500 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+20:59:23.877517 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+21:00:40.002273 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+15:32:22.688748 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+15:35:33.649525 : student crashed against agent1 -> BOTH DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+15:35:37.918798 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+15:35:43.851064 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+17:17:10.692612 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+17:21:36.771606 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+17:21:46.415539 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+17:22:16.992303 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+17:22:35.057367 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+00:05:27.595868 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+00:49:03.081856 : student crashed against itself -> Suicide...
+		<<<<<< New Run at 20 fps >>>>>>
+
+00:50:11.348634 : student crashed against obstacle -> DEAD
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+		<<<<<< New Run at 20 fps >>>>>>
+
+00:54:00.899871 : student crashed against obstacle -> DEAD
